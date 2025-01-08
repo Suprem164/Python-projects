@@ -1,4 +1,4 @@
-rows = int(input("Enter the no of rows: "))
+rows = int(input("Enter the no of rows: ")) //Taking input from user.
 
 for i in range(rows):
     spaces = rows - 1 
